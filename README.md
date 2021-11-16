@@ -31,7 +31,7 @@ It impelements a variety of features such as CV and hyper-param optimisation wit
 pip install .
 ```
 
-Check the [documentation](./docs/index.html) for more details.
+Check the [documentation](https://reviwe.github.io/deep-nilmtk-v1/) for more details.
 
 
 
